@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/redis-lite.dir/src/main.cpp.o CMakeFiles/redis-lite.dir/src/server.cpp.o CMakeFiles/redis-lite.dir/src/store.cpp.o CMakeFiles/redis-lite.dir/src/command.cpp.o CMakeFiles/redis-lite.dir/src/lru_cache.cpp.o CMakeFiles/redis-lite.dir/api/http_server.cpp.o -o redis-lite 
