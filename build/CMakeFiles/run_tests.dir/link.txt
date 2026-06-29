@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/run_tests.dir/tests/test_lru.cpp.o CMakeFiles/run_tests.dir/tests/test_store.cpp.o CMakeFiles/run_tests.dir/tests/test_command.cpp.o CMakeFiles/run_tests.dir/src/lru_cache.cpp.o CMakeFiles/run_tests.dir/src/store.cpp.o CMakeFiles/run_tests.dir/src/command.cpp.o -o run_tests  /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

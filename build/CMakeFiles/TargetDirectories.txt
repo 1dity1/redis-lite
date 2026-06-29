@@ -1,0 +1,5 @@
+/home/aditya/redis-lite/build/CMakeFiles/redis-lite.dir
+/home/aditya/redis-lite/build/CMakeFiles/run_tests.dir
+/home/aditya/redis-lite/build/CMakeFiles/test.dir
+/home/aditya/redis-lite/build/CMakeFiles/edit_cache.dir
+/home/aditya/redis-lite/build/CMakeFiles/rebuild_cache.dir
